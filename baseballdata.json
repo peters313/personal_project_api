@@ -1,0 +1,795 @@
+{
+  "Info": [
+    {
+      "sport": "baseball",
+      "year": "Year",
+      "winner": "Winning team",
+      "loser": "Losing team",
+      "series": "Games"
+    },
+    {
+      "sport": "baseball",
+      "year": "1903",
+      "winner": "Boston Americans",
+      "loser": "Pittsburg Pirates",
+      "series": "5–3[V]"
+    },
+    {
+      "sport": "baseball",
+      "year": "1904",
+      "winner": "No World Series",
+      "loser": "–",
+      "series": "–"
+    },
+    {
+      "sport": "baseball",
+      "year": "1905",
+      "winner": "New York Giants",
+      "loser": "Philadelphia Athletics",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1906",
+      "winner": "Chicago White Sox",
+      "loser": "Chicago Cubs",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1907",
+      "winner": "Chicago Cubs",
+      "loser": "Detroit Tigers",
+      "series": "4–0–(1)[T]"
+    },
+    {
+      "sport": "baseball",
+      "year": "1908",
+      "winner": "Chicago Cubs",
+      "loser": "Detroit Tigers",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1909",
+      "winner": "Pittsburg Pirates",
+      "loser": "Detroit Tigers",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1910",
+      "winner": "Philadelphia Athletics",
+      "loser": "Chicago Cubs",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1911",
+      "winner": "Philadelphia Athletics",
+      "loser": "New York Giants",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1912",
+      "winner": "Boston Red Sox",
+      "loser": "New York Giants",
+      "series": "4–3–(1)[T]"
+    },
+    {
+      "sport": "baseball",
+      "year": "1913",
+      "winner": "Philadelphia Athletics",
+      "loser": "New York Giants",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1914",
+      "winner": "Boston Braves",
+      "loser": "Philadelphia Athletics",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "1915",
+      "winner": "Boston Red Sox",
+      "loser": "Philadelphia Phillies",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1916",
+      "winner": "Boston Red Sox",
+      "loser": "Brooklyn Robins",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1917",
+      "winner": "Chicago White Sox",
+      "loser": "New York Giants",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1918",
+      "winner": "Boston Red Sox",
+      "loser": "Chicago Cubs",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1919",
+      "winner": "Cincinnati Reds",
+      "loser": "Chicago White Sox",
+      "series": "5–3[V]"
+    },
+    {
+      "sport": "baseball",
+      "year": "1920",
+      "winner": "Cleveland Indians",
+      "loser": "Brooklyn Robins",
+      "series": "5–2[V]"
+    },
+    {
+      "sport": "baseball",
+      "year": "1921",
+      "winner": "New York Giants",
+      "loser": "New York Yankees",
+      "series": "5–3[V]"
+    },
+    {
+      "sport": "baseball",
+      "year": "1922",
+      "winner": "New York Giants",
+      "loser": "New York Yankees",
+      "series": "4–0–(1)[T]"
+    },
+    {
+      "sport": "baseball",
+      "year": "1923",
+      "winner": "New York Yankees",
+      "loser": "New York Giants",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1924",
+      "winner": "Washington Senators",
+      "loser": "New York Giants",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1925",
+      "winner": "Pittsburgh Pirates",
+      "loser": "Washington Senators",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1926",
+      "winner": "St. Louis Cardinals",
+      "loser": "New York Yankees",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1927",
+      "winner": "New York Yankees",
+      "loser": "Pittsburgh Pirates",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "1928",
+      "winner": "New York Yankees",
+      "loser": "St. Louis Cardinals",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "1929",
+      "winner": "Philadelphia Athletics",
+      "loser": "Chicago Cubs",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1930",
+      "winner": "Philadelphia Athletics",
+      "loser": "St. Louis Cardinals",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1931",
+      "winner": "St. Louis Cardinals",
+      "loser": "Philadelphia Athletics",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1932",
+      "winner": "New York Yankees",
+      "loser": "Chicago Cubs",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "1933",
+      "winner": "New York Giants",
+      "loser": "Washington Senators",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1934",
+      "winner": "St. Louis Cardinals",
+      "loser": "Detroit Tigers",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1935",
+      "winner": "Detroit Tigers",
+      "loser": "Chicago Cubs",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1936",
+      "winner": "New York Yankees",
+      "loser": "New York Giants",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1937",
+      "winner": "New York Yankees",
+      "loser": "New York Giants",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1938",
+      "winner": "New York Yankees",
+      "loser": "Chicago Cubs",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "1939",
+      "winner": "New York Yankees",
+      "loser": "Cincinnati Reds",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "1940",
+      "winner": "Cincinnati Reds",
+      "loser": "Detroit Tigers",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1941",
+      "winner": "New York Yankees",
+      "loser": "Brooklyn Dodgers",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1942",
+      "winner": "St. Louis Cardinals",
+      "loser": "New York Yankees",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1943",
+      "winner": "New York Yankees",
+      "loser": "St. Louis Cardinals",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1944",
+      "winner": "St. Louis Cardinals",
+      "loser": "St. Louis Browns",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1945",
+      "winner": "Detroit Tigers",
+      "loser": "Chicago Cubs",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1946",
+      "winner": "St. Louis Cardinals",
+      "loser": "Boston Red Sox",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1947",
+      "winner": "New York Yankees",
+      "loser": "Brooklyn Dodgers",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1948",
+      "winner": "Cleveland Indians",
+      "loser": "Boston Braves",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1949",
+      "winner": "New York Yankees",
+      "loser": "Brooklyn Dodgers",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1950",
+      "winner": "New York Yankees",
+      "loser": "Philadelphia Phillies",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "1951",
+      "winner": "New York Yankees",
+      "loser": "New York Giants",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1952",
+      "winner": "New York Yankees",
+      "loser": "Brooklyn Dodgers",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1953",
+      "winner": "New York Yankees",
+      "loser": "Brooklyn Dodgers",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1954",
+      "winner": "New York Giants",
+      "loser": "Cleveland Indians",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "1955",
+      "winner": "Brooklyn Dodgers",
+      "loser": "New York Yankees",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1956",
+      "winner": "New York Yankees",
+      "loser": "Brooklyn Dodgers",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1957",
+      "winner": "Milwaukee Braves",
+      "loser": "New York Yankees",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1958",
+      "winner": "New York Yankees",
+      "loser": "Milwaukee Braves",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1959",
+      "winner": "Los Angeles Dodgers",
+      "loser": "Chicago White Sox",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1960",
+      "winner": "Pittsburgh Pirates",
+      "loser": "New York Yankees",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1961",
+      "winner": "New York Yankees",
+      "loser": "Cincinnati Reds",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1962",
+      "winner": "New York Yankees",
+      "loser": "San Francisco Giants",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1963",
+      "winner": "Los Angeles Dodgers",
+      "loser": "New York Yankees",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "1964",
+      "winner": "St. Louis Cardinals",
+      "loser": "New York Yankees",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1965",
+      "winner": "Los Angeles Dodgers",
+      "loser": "Minnesota Twins",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1966",
+      "winner": "Baltimore Orioles",
+      "loser": "Los Angeles Dodgers",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "1967",
+      "winner": "St. Louis Cardinals",
+      "loser": "Boston Red Sox",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1968",
+      "winner": "Detroit Tigers",
+      "loser": "St. Louis Cardinals",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1969",
+      "winner": "New York Mets",
+      "loser": "Baltimore Orioles",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1970",
+      "winner": "Baltimore Orioles",
+      "loser": "Cincinnati Reds",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1971",
+      "winner": "Pittsburgh Pirates",
+      "loser": "Baltimore Orioles",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1972",
+      "winner": "Oakland Athletics",
+      "loser": "Cincinnati Reds",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1973",
+      "winner": "Oakland Athletics",
+      "loser": "New York Mets",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1974",
+      "winner": "Oakland Athletics",
+      "loser": "Los Angeles Dodgers",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1975",
+      "winner": "Cincinnati Reds",
+      "loser": "Boston Red Sox",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1976",
+      "winner": "Cincinnati Reds",
+      "loser": "New York Yankees",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "1977",
+      "winner": "New York Yankees",
+      "loser": "Los Angeles Dodgers",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1978",
+      "winner": "New York Yankees",
+      "loser": "Los Angeles Dodgers",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1979",
+      "winner": "Pittsburgh Pirates",
+      "loser": "Baltimore Orioles",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1980",
+      "winner": "Philadelphia Phillies",
+      "loser": "Kansas City Royals",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1981",
+      "winner": "Los Angeles Dodgers",
+      "loser": "New York Yankees",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1982",
+      "winner": "St. Louis Cardinals",
+      "loser": "Milwaukee Brewers",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1983",
+      "winner": "Baltimore Orioles",
+      "loser": "Philadelphia Phillies",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1984",
+      "winner": "Detroit Tigers",
+      "loser": "San Diego Padres",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1985",
+      "winner": "Kansas City Royals",
+      "loser": "St. Louis Cardinals",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1986",
+      "winner": "New York Mets",
+      "loser": "Boston Red Sox",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1987",
+      "winner": "Minnesota Twins",
+      "loser": "St. Louis Cardinals",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1988",
+      "winner": "Los Angeles Dodgers",
+      "loser": "Oakland Athletics",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "1989",
+      "winner": "Oakland Athletics",
+      "loser": "San Francisco Giants",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "1990",
+      "winner": "Cincinnati Reds",
+      "loser": "Oakland Athletics",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "1991",
+      "winner": "Minnesota Twins",
+      "loser": "Atlanta Braves",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1992",
+      "winner": "Toronto Blue Jays",
+      "loser": "Atlanta Braves",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1993",
+      "winner": "Toronto Blue Jays",
+      "loser": "Philadelphia Phillies",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1994",
+      "winner": "No World Series",
+      "loser": "—",
+      "series": "—"
+    },
+    {
+      "sport": "baseball",
+      "year": "1995",
+      "winner": "Atlanta Braves",
+      "loser": "Cleveland Indians",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1996",
+      "winner": "New York Yankees",
+      "loser": "Atlanta Braves",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "1997",
+      "winner": "Florida Marlins[W]",
+      "loser": "Cleveland Indians",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "1998",
+      "winner": "New York Yankees",
+      "loser": "San Diego Padres",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "1999",
+      "winner": "New York Yankees",
+      "loser": "Atlanta Braves",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "2000",
+      "winner": "New York Yankees",
+      "loser": "New York Mets[W]",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "2001",
+      "winner": "Arizona Diamondbacks",
+      "loser": "New York Yankees",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "2002",
+      "winner": "Anaheim Angels[W]",
+      "loser": "San Francisco Giants[W]",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "2003",
+      "winner": "Florida Marlins[W]",
+      "loser": "New York Yankees",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "2004",
+      "winner": "Boston Red Sox[W]",
+      "loser": "St. Louis Cardinals",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "2005",
+      "winner": "Chicago White Sox",
+      "loser": "Houston Astros[W]",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "2006",
+      "winner": "St. Louis Cardinals",
+      "loser": "Detroit Tigers[W]",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "2007",
+      "winner": "Boston Red Sox",
+      "loser": "Colorado Rockies[W]",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "2008",
+      "winner": "Philadelphia Phillies",
+      "loser": "Tampa Bay Rays",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "2009",
+      "winner": "New York Yankees",
+      "loser": "Philadelphia Phillies",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "2010",
+      "winner": "San Francisco Giants",
+      "loser": "Texas Rangers",
+      "series": "4–1"
+    },
+    {
+      "sport": "baseball",
+      "year": "2011",
+      "winner": "St. Louis Cardinals[W]",
+      "loser": "Texas Rangers",
+      "series": "4–3"
+    },
+    {
+      "sport": "baseball",
+      "year": "2012",
+      "winner": "San Francisco Giants",
+      "loser": "Detroit Tigers",
+      "series": "4–0"
+    },
+    {
+      "sport": "baseball",
+      "year": "2013",
+      "winner": "Boston Red Sox",
+      "loser": "St. Louis Cardinals",
+      "series": "4–2"
+    },
+    {
+      "sport": "baseball",
+      "year": "2014",
+      "winner": "San Francisco Giants[W]",
+      "loser": "Kansas City Royals[W]",
+      "series": "4–3"
+    }
+  ]
+}
