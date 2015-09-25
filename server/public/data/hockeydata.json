@@ -1,0 +1,715 @@
+{
+  "hockey": [
+{
+      "sport": "hockey",
+      "year": "1927",
+      "winner": "Ottawa Senators",
+      "loser": "Boston Bruins",
+      "series": "2–0–2",
+      "winning goal": "Cy Denneny"
+    },
+    {
+    "sport": "hockey",
+      "year": "1928",
+      "winner": "New York Rangers",
+      "loser": "Montreal Maroons",
+      "series": "3–2",
+      "winning goal": "Frank Boucher"
+    },
+    {
+    "sport": "hockey",
+      "year": "1929",
+      "winner": "Boston Bruins",
+      "loser": "New York Rangers",
+      "series": "2–0",
+      "winning goal": "Bill Carson"
+    },
+    {
+    "sport": "hockey",
+      "year": "1930",
+      "winner": "Montreal Canadiens",
+      "loser": "Boston Bruins",
+      "series": "2–0",
+      "winning goal": "Howie Morenz"
+    },
+    {
+    "sport": "hockey",
+      "year": "1931",
+      "winner": "Montreal Canadiens",
+      "loser": "Chicago Black Hawks",
+      "series": "3–2",
+      "winning goal": "Johnny Gagnon"
+    },
+    {
+    "sport": "hockey",
+      "year": "1932",
+      "winner": "Toronto Maple Leafs",
+      "loser": "New York Rangers",
+      "series": "3–0",
+      "winning goal": "Ace Bailey"
+    },
+    {
+    "sport": "hockey",
+      "year": "1933",
+      "winner": "New York Rangers",
+      "loser": "Toronto Maple Leafs",
+      "series": "3–1",
+      "winning goal": "Bill Cook"
+    },
+    {
+    "sport": "hockey",
+      "year": "1934",
+      "winner": "Chicago Black Hawks",
+      "loser": "Detroit Red Wings",
+      "series": "3–1",
+      "winning goal": "Mush March"
+    },
+    {
+    "sport": "hockey",
+      "year": "1935",
+      "winner": "Montreal Maroons",
+      "loser": "Toronto Maple Leafs",
+      "series": "3–0",
+      "winning goal": "Baldy Northcott"
+    },
+    {
+    "sport": "hockey",
+      "year": "1936",
+      "winner": "Detroit Red Wings",
+      "loser": "Toronto Maple Leafs",
+      "series": "3–1",
+      "winning goal": "Pete Kelly"
+    },
+    {
+    "sport": "hockey",
+      "year": "1937",
+      "winner": "Detroit Red Wings",
+      "loser": "New York Rangers",
+      "series": "3–2",
+      "winning goal": "Marty Barry"
+    },
+    {
+    "sport": "hockey",
+      "year": "1938",
+      "winner": "Chicago Black Hawks",
+      "loser": "Toronto Maple Leafs",
+      "series": "3–1",
+      "winning goal": "Carl Voss"
+    },
+    {
+    "sport": "hockey",
+      "year": "1939",
+      "winner": "Boston Bruins",
+      "loser": "Toronto Maple Leafs",
+      "series": "4–1",
+      "winning goal": "Roy Conacher"
+    },
+    {
+    "sport": "hockey",
+      "year": "1940",
+      "winner": "New York Rangers",
+      "loser": "Toronto Maple Leafs",
+      "series": "4–2",
+      "winning goal": "Bryan Hextall"
+    },
+    {
+    "sport": "hockey",
+      "year": "1941",
+      "winner": "Boston Bruins",
+      "loser": "Detroit Red Wings",
+      "series": "4–0",
+      "winning goal": "Bobby Bauer"
+    },
+    {
+    "sport": "hockey",
+      "year": "1942",
+      "winner": "Toronto Maple Leafs",
+      "loser": "Detroit Red Wings",
+      "series": "4–3",
+      "winning goal": "Pete Langelle"
+    },
+    {
+    "sport": "hockey",
+      "year": "1943",
+      "winner": "Detroit Red Wings",
+      "loser": "Boston Bruins",
+      "series": "4–0",
+      "winning goal": "Joe Carveth"
+    },
+    {
+    "sport": "hockey",
+      "year": "1944",
+      "winner": "Montreal Canadiens",
+      "loser": "Chicago Black Hawks",
+      "series": "4–0",
+      "winning goal": "Toe Blake"
+    },
+    {
+    "sport": "hockey",
+      "year": "1945",
+      "winner": "Toronto Maple Leafs",
+      "loser": "Detroit Red Wings",
+      "series": "4–3",
+      "winning goal": "Babe Pratt"
+    },
+    {
+    "sport": "hockey",
+      "year": "1946",
+      "winner": "Montreal Canadiens",
+      "loser": "Boston Bruins",
+      "series": "4–1",
+      "winning goal": "Toe Blake"
+    },
+    {
+    "sport": "hockey",
+      "year": "1947",
+      "winner": "Toronto Maple Leafs",
+      "loser": "Montreal Canadiens",
+      "series": "4–2",
+      "winning goal": "Ted Kennedy"
+    },
+    {
+    "sport": "hockey",
+      "year": "1948",
+      "winner": "Toronto Maple Leafs",
+      "loser": "Detroit Red Wings",
+      "series": "4–0",
+      "winninggoal": "Harry Watson"
+    },
+    {
+    "sport": "hockey",
+      "year": "1949",
+      "winner": "Toronto Maple Leafs",
+      "loser": "Detroit Red Wings",
+      "series": "4–0",
+      "winninggoal": "Cal Gardner"
+    },
+    {
+    "sport": "hockey",
+      "year": "1950",
+      "winner": "Detroit Red Wings",
+      "loser": "New York Rangers",
+      "series": "4–3",
+      "winninggoal": "Pete Babando"
+    },
+    {
+    "sport": "hockey",
+      "year": "1951",
+      "winner": "Toronto Maple Leafs",
+      "loser": "Montreal Canadiens",
+      "series": "4–1",
+      "winninggoal": "Bill Barilko"
+    },
+    {
+    "sport": "hockey",
+      "year": "1952",
+      "winner": "Detroit Red Wings",
+      "loser": "Montreal Canadiens",
+      "series": "4–0",
+      "winninggoal": "Metro Prystai"
+    },
+    {
+    "sport": "hockey",
+      "year": "1953",
+      "winner": "Montreal Canadiens",
+      "loser": "Boston Bruins",
+      "series": "4–1",
+      "winninggoal": "Elmer Lach"
+    },
+    {
+    "sport": "hockey",
+      "year": "1954",
+      "winner": "Detroit Red Wings",
+      "loser": "Montreal Canadiens",
+      "series": "4–3",
+      "winninggoal": "Tony Leswick"
+    },
+    {
+    "sport": "hockey",
+      "year": "1955",
+      "winner": "Detroit Red Wings",
+      "loser": "Montreal Canadiens",
+      "series": "4–3",
+      "winninggoal": "Gordie Howe"
+    },
+    {
+    "sport": "hockey",
+      "year": "1956",
+      "winner": "Montreal Canadiens",
+      "loser": "Detroit Red Wings",
+      "series": "4–1",
+      "winninggoal": "Maurice Richard"
+    },
+    {
+    "sport": "hockey",
+      "year": "1957",
+      "winner": "Montreal Canadiens",
+      "loser": "Boston Bruins",
+      "series": "4–1",
+      "winninggoal": "Dickie Moore"
+    },
+    {
+    "sport": "hockey",
+      "year": "2005",
+      "winner": "",
+      "loser": "",
+      "series": "Season cancelled due to 2004–05 NHL lockout",
+      "winninggoal": ""
+    },
+    {
+    "sport": "hockey",
+      "year": "1958",
+      "winner": "Montreal Canadiens",
+      "loser": "Boston Bruins",
+      "series": "4–2",
+      "winninggoal": "Bernie Geoffrion"
+    },
+    {
+    "sport": "hockey",
+      "year": "1959",
+      "winner": "Montreal Canadiens",
+      "loser": "Toronto Maple Leafs",
+      "series": "4–1",
+      "winninggoal": "Marcel Bonin"
+    },
+    {
+    "sport": "hockey",
+      "year": "1960",
+      "winner": "Montreal Canadiens",
+      "loser": "Toronto Maple Leafs",
+      "series": "4–0",
+      "winninggoal": "Jean Beliveau"
+    },
+    {
+    "sport": "hockey",
+      "year": "1961",
+      "winner": "Chicago Black Hawks",
+      "loser": "Detroit Red Wings",
+      "series": "4–2",
+      "winninggoal": "Ab McDonald"
+    },
+    {
+    "sport": "hockey",
+      "year": "1962",
+      "winner": "Toronto Maple Leafs",
+      "loser": "Chicago Black Hawks",
+      "series": "4–2",
+      "winninggoal": "Dick Duff"
+    },
+    {
+    "sport": "hockey",
+      "year": "1963",
+      "winner": "Toronto Maple Leafs",
+      "loser": "Detroit Red Wings",
+      "series": "4–1",
+      "winninggoal": "Eddie Shack"
+    },
+    {
+    "sport": "hockey",
+      "year": "1964",
+      "winner": "Toronto Maple Leafs",
+      "loser": "Detroit Red Wings",
+      "series": "4–3",
+      "winninggoal": "Andy Bathgate"
+    },
+    {
+    "sport": "hockey",
+      "year": "1965",
+      "winner": "Montreal Canadiens",
+      "loser": "Chicago Black Hawks",
+      "series": "4–3",
+      "winninggoal": "Jean Beliveau"
+    },
+    {
+    "sport": "hockey",
+      "year": "1966",
+      "winner": "Montreal Canadiens",
+      "loser": "Detroit Red Wings",
+      "series": "4–2",
+      "winninggoal": "Henri Richard"
+    },
+    {
+    "sport": "hockey",
+      "year": "1967",
+      "winner": "Toronto Maple Leafs",
+      "loser": "Montreal Canadiens",
+      "series": "4–2",
+      "winninggoal": "Jim Pappin"
+    },
+    {
+    "sport": "hockey",
+      "year": "1968",
+      "winner": "Montreal Canadiens",
+      "loser": "St. Louis Blues",
+      "series": "4–0",
+      "winninggoal": "J. C. Tremblay"
+    },
+    {
+    "sport": "hockey",
+      "year": "1969",
+      "winner": "Montreal Canadiens",
+      "loser": "St. Louis Blues",
+      "series": "4–0",
+      "winninggoal": "John Ferguson"
+    },
+    {
+    "sport": "hockey",
+      "year": "1970",
+      "winner": "Boston Bruins",
+      "loser": "St. Louis Blues",
+      "series": "4–0",
+      "winninggoal": "Bobby Orr"
+    },
+    {
+    "sport": "hockey",
+      "year": "1971",
+      "winner": "Montreal Canadiens",
+      "loser": "Chicago Black Hawks",
+      "series": "4–3",
+      "winninggoal": "Henri Richard"
+    },
+    {
+    "sport": "hockey",
+      "year": "1972",
+      "winner": "Boston Bruins",
+      "loser": "New York Rangers",
+      "series": "4–2",
+      "winninggoal": "Bobby Orr"
+    },
+    {
+    "sport": "hockey",
+      "year": "1973",
+      "winner": "Montreal Canadiens",
+      "loser": "Chicago Black Hawks",
+      "series": "4–2",
+      "winninggoal": "Yvan Cournoyer"
+    },
+    {
+    "sport": "hockey",
+      "year": "1974",
+      "winner": "Philadelphia Flyers",
+      "loser": "Boston Bruins",
+      "series": "4–2",
+      "winninggoal": "Rick MacLeish"
+    },
+    {
+    "sport": "hockey",
+      "year": "1975",
+      "winner": "Philadelphia Flyers",
+      "loser": "Buffalo Sabres",
+      "series": "4–2",
+      "winninggoal": "Bob Kelly"
+    },
+    {
+    "sport": "hockey",
+      "year": "1976",
+      "winner": "Montreal Canadiens",
+      "loser": "Philadelphia Flyers",
+      "series": "4–0",
+      "winninggoal": "Guy Lafleur"
+    },
+    {
+    "sport": "hockey",
+      "year": "1977",
+      "winner": "Montreal Canadiens",
+      "loser": "Boston Bruins",
+      "series": "4–0",
+      "winninggoal": "Jacques Lemaire"
+    },
+    {
+    "sport": "hockey",
+      "year": "1978",
+      "winner": "Montreal Canadiens",
+      "loser": "Boston Bruins",
+      "series": "4–2",
+      "winninggoal": "Mario Tremblay"
+    },
+    {
+    "sport": "hockey",
+      "year": "1979",
+      "winner": "Montreal Canadiens",
+      "loser": "New York Rangers",
+      "series": "4–1",
+      "winninggoal": "Jacques Lemaire"
+    },
+    {
+    "sport": "hockey",
+      "year": "1980",
+      "winner": "New York Islanders",
+      "loser": "Philadelphia Flyers",
+      "series": "4–2",
+      "winninggoal": "Bob Nystrom"
+    },
+    {
+      "year": "1981",
+      "winner": "New York Islanders",
+      "loser": "Minnesota North Stars",
+      "series": "4–1",
+      "winninggoal": "Wayne Merrick"
+    },
+    {
+    "sport": "hockey",
+      "year": "1982",
+      "winner": "New York Islanders",
+      "loser": "Vancouver Canucks",
+      "series": "4–0",
+      "winninggoal": "Mike Bossy"
+    },
+    {
+    "sport": "hockey",
+      "year": "1983",
+      "winner": "New York Islanders",
+      "loser": "Edmonton Oilers",
+      "series": "4–0",
+      "winninggoal": "Mike Bossy"
+    },
+    {
+    "sport": "hockey",
+      "year": "1984",
+      "winner": "Edmonton Oilers",
+      "loser": "New York Islanders",
+      "series": "4–1",
+      "winninggoal": "Ken Linseman"
+    },
+    {
+    "sport": "hockey",
+      "year": "1985",
+      "winner": "Edmonton Oilers",
+      "loser": "Philadelphia Flyers",
+      "series": "4–1",
+      "winninggoal": "Paul Coffey"
+    },
+    {
+    "sport": "hockey",
+      "year": "1986",
+      "winner": "Montreal Canadiens",
+      "loser": "Calgary Flames",
+      "series": "4–1",
+      "winninggoal": "Bobby Smith"
+    },
+    {
+    "sport": "hockey",
+      "year": "1987",
+      "winner": "Edmonton Oilers",
+      "loser": "Philadelphia Flyers",
+      "series": "4–3",
+      "winninggoal": "Jari Kurri"
+    },
+    {
+    "sport": "hockey",
+      "year": "1988",
+      "winner": "Edmonton Oilers",
+      "loser": "Boston Bruins",
+      "series": "4–0",
+      "winninggoal": "Wayne Gretzky"
+    },
+    {
+    "sport": "hockey",
+      "year": "1989",
+      "winner": "Calgary Flames",
+      "loser": "Montreal Canadiens",
+      "series": "4–2",
+      "winninggoal": "Doug Gilmour"
+    },
+    {
+    "sport": "hockey",
+      "year": "1990",
+      "winner": "Edmonton Oilers",
+      "loser": "Boston Bruins",
+      "series": "4–1",
+      "winninggoal": "Craig Simpson"
+    },
+    {
+    "sport": "hockey",
+      "year": "1991",
+      "winner": "Pittsburgh Penguins",
+      "loser": "Minnesota North Stars",
+      "series": "4–2",
+      "winninggoal": "Ulf Samuelsson"
+    },
+    {
+    "sport": "hockey",
+      "year": "1992",
+      "winner": "Pittsburgh Penguins",
+      "loser": "Chicago Blackhawks",
+      "series": "4–0",
+      "winninggoal": "Ron Francis"
+    },
+    {
+    "sport": "hockey",
+      "year": "1993",
+      "winner": "Montreal Canadiens",
+      "loser": "Los Angeles Kings",
+      "series": "4–1",
+      "winninggoal": "Kirk Muller"
+    },
+    {
+    "sport": "hockey",
+      "year": "1994",
+      "winner": "New York Rangers",
+      "loser": "Vancouver Canucks",
+      "series": "4–3",
+      "winninggoal": "Mark Messier"
+    },
+    {
+    "sport": "hockey",
+      "year": "1995",
+      "winner": "New Jersey Devils",
+      "loser": "Detroit Red Wings",
+      "series": "4–0",
+      "winninggoal": "Neal Broten"
+    },
+    {
+    "sport": "hockey",
+      "year": "1996",
+      "winner": "Colorado Avalanche",
+      "loser": "Florida Panthers",
+      "series": "4–0",
+      "winninggoal": "Uwe Krupp"
+    },
+    {
+    "sport": "hockey",
+      "year": "1997",
+      "winner": "Detroit Red Wings",
+      "loser": "Philadelphia Flyers",
+      "series": "4–0",
+      "winninggoal": "Darren McCarty"
+    },
+    {
+    "sport": "hockey",
+      "year": "1998",
+      "winner": "Detroit Red Wings",
+      "loser": "Washington Capitals",
+      "series": "4–0",
+      "winninggoal": "Martin Lapointe"
+    },
+    {
+    "sport": "hockey",
+      "year": "1999",
+      "winner": "Dallas Stars",
+      "loser": "Buffalo Sabres",
+      "series": "4–2",
+      "winninggoal": "Brett Hull"
+    },
+    {
+    "sport": "hockey",
+      "year": "2000",
+      "winner": "New Jersey Devils",
+      "loser": "Dallas Stars",
+      "series": "4–2",
+      "winninggoal": "Jason Arnott"
+    },
+    {
+    "sport": "hockey",
+      "year": "2001",
+      "winner": "Colorado Avalanche",
+      "loser": "New Jersey Devils",
+      "series": "4–3",
+      "winninggoal": "Alex Tanguay"
+    },
+    {
+    "sport": "hockey",
+      "year": "2002",
+      "winner": "Detroit Red Wings",
+      "loser": "Carolina Hurricanes",
+      "series": "4–1",
+      "winninggoal": "Brendan Shanahan"
+    },
+    {
+    "sport": "hockey",
+      "year": "2003",
+      "winner": "New Jersey Devils",
+      "loser": "Mighty Ducks of Anaheim",
+      "series": "4–3",
+      "winninggoal": "Michael Rupp"
+    },
+    {
+    "sport": "hockey",
+      "year": "2004",
+      "winner": "Tampa Bay Lightning",
+      "loser": "Calgary Flames",
+      "series": "4–3",
+      "winninggoal": "Ruslan Fedotenko"
+    },
+    {
+    "sport": "hockey",
+      "year": "2006",
+      "winner": "Carolina Hurricanes",
+      "loser": "Edmonton Oilers",
+      "series": "4–3",
+      "winninggoal": "Frantisek Kaberle"
+    },
+    {
+    "sport": "hockey",
+      "year": "2007",
+      "winner": "Anaheim Ducks",
+      "loser": "Ottawa Senators",
+      "series": "4–1",
+      "winninggoal": "Travis Moen"
+    },
+    {
+    "sport": "hockey",
+      "year": "2008",
+      "winner": "Detroit Red Wings",
+      "loser": "Pittsburgh Penguins",
+      "series": "4–2",
+      "winninggoal": "Henrik Zetterberg"
+    },
+    {
+    "sport": "hockey",
+      "year": "2009",
+      "winner": "Pittsburgh Penguins",
+      "loser": "Detroit Red Wings",
+      "series": "4–3",
+      "winning goal": "Maxime Talbot"
+    },
+    {
+    "sport": "hockey",
+      "year": "2010",
+      "winner": "Chicago Blackhawks",
+      "loser": "Philadelphia Flyers",
+      "series": "4–2",
+      "winninggoal": "Patrick Kane"
+    },
+    {
+    "sport": "hockey",
+      "year": "2011",
+      "winner": "Boston Bruins",
+      "loser": "Vancouver Canucks",
+      "series": "4–3",
+      "winninggoal": "Patrice Bergeron"
+    },
+    {
+    "sport": "hockey",
+      "year": "2012",
+      "winner": "Los Angeles Kings",
+      "loser": "New Jersey Devils",
+      "series": "4–2",
+      "winninggoal": "Jeff Carter"
+    },
+    {
+    "sport": "hockey",
+      "year": "2013",
+      "winner": "Chicago Blackhawks",
+      "loser": "Boston Bruins",
+      "series": "4–2",
+      "winninggoal": "Dave Bolland"
+    },
+    {
+    "sport": "hockey",
+      "year": "2014",
+      "winner": "Los Angeles Kings",
+      "loser": "New York Rangers",
+      "series": "4–1",
+      "winninggoal": "Alec Martinez"
+    },
+    {
+    "sport": "hockey",
+      "year": "2015",
+      "winner": "Chicago Blackhawks",
+      "loser": "Tampa Bay Lightning",
+      "series": "4–2",
+      "winninggoal": "Duncan Keith"
+    }
+      ]
+}

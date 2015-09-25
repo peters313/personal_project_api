@@ -15,32 +15,61 @@ module.exports = function(grunt){
                 expand: true,
                 cwd: 'node_modules',
                 src: [
-                    "bootstrap/dist/css/bootstrap.min.css"
+                    "bootstrap/dist/css/bootstrap.min.css",
+                    "bootstrap/dist/js/bootstrap.min.js"
                 ],
                 "dest": "server/public/vendors/"
             },
-            angular: {
-                expand: true,
-                cwd: 'node_modules',
-                src: [
-                    "angular/angular.min.js",
-                    "angular/angular.min.js.map"
-                ],
-                "dest": "server/public/vendors/"
-            },
+
+                jquery: {
+                    expand: true,
+                    cwd: 'node_modules',
+                    src: [
+                        "jquery/dist/jquery.min.js",
+                        "jQuery-Plugin-For-Tabbed-Image-Slider-Navigation-Ottoman-Slider/js/jquery.ottomanslider.js"
+                    ],
+                    "dest": "server/public/vendors/"
+                },
+                jqueryCss: {
+                    expand: true,
+                    cwd: 'node_modules',
+                    src: [
+                        "jQuery-Plugin-For-Tabbed-Image-Slider-Navigation-Ottoman-Slider/css/memoslider.css"
+                    ],
+                    "dest": "server/public/assets/styles"
+                },
             html: {
                 expand: true,
                 cwd: 'client/views/',
                 src: [
-                    "index.html"
+                    "index.html",
+                    "mlb.html",
+                    "sportsFacts.html",
+                    "nhl.html",
+                    "nba.html",
+                    "nfl.html"
                 ],
                 "dest": "server/public/assets/views/"
             },
             style: {
+                expand: true,
+                cwd: 'client',
                 src: [
-                    "client/styles/style.css"
+                    "styles/styles.css"
                 ],
-                "dest": "server/public/assets/styles/style.min.css"
+                "dest": "server/public/assets"
+            },
+            images: {
+                expand: true,
+                cwd: 'client',
+                src:[
+                    "images/mlblogo.png",
+                    "images/nbalogo.png",
+                    "images/nhllogo.png",
+                    "images/nfllogo.png",
+                    "images/mainbackground.png"
+                ],
+                "dest": "server/public/assets/"
             }
         }
     });

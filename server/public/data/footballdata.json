@@ -1,0 +1,494 @@
+ {
+  "football": [
+  {
+      "sport": "football",
+      "Year": "1967",
+      "winner": "Green Bay Packers",
+      "loser": "Kansas City Chiefs",
+      "score": "35–10",
+      "venue": "Los Angeles Memorial Coliseum",
+      "attendance": "61,946",
+      "super bowl": "I"
+    },
+    {
+    "sport": "football",
+      "Year": "1968",
+      "winner": "Green Bay Packers",
+      "loser": "Oakland Raiders",
+      "score": "33–14",
+      "venue": "Orange Bowl",
+      "attendance": "75,546",
+      "super bowl": "II"
+    },
+    {
+    "sport": "football",
+      "Year": "1969",
+      "winner": "New York Jets",
+      "loser": "Baltimore Colts",
+      "score": "16–7",
+      "venue": "Orange Bowl (2)",
+      "attendance": "75,389",
+      "super bowl": "III"
+    },
+    {
+    "sport": "football",
+      "Year": "1970",
+      "winner": "Kansas City Chiefs",
+      "loser": "Minnesota Vikings",
+      "score": "23–7",
+      "venue": "Tulane Stadium",
+      "attendance": "80,562",
+      "super bowl": "IV"
+    },
+    {
+    "sport": "football",
+      "Year": "1971",
+      "winner": "Baltimore Colts",
+      "loser": "Dallas Cowboys",
+      "score": "16–13",
+      "venue": "Orange Bowl (3)",
+      "attendance": "79,204",
+      "super bowl": "V"
+    },
+    {
+    "sport": "football",
+      "Year": "1972",
+      "winner": "Dallas Cowboys",
+      "loser": "Miami Dolphins",
+      "score": "24–3",
+      "venue": "Tulane Stadium (2)",
+      "attendance": "81,023",
+      "super bowl": "VI"
+    },
+    {
+    "sport": "football",
+      "Year": "1973",
+      "winner": "Miami Dolphins",
+      "loser": "Washington Redskins",
+      "score": "14–7",
+      "venue": "Los Angeles Memorial Coliseum (2)",
+      "attendance": "90,182",
+      "super bowl": "VII"
+    },
+    {
+    "sport": "football",
+      "Year": "1974",
+      "winner": "Miami Dolphins",
+      "loser": "Minnesota Vikings",
+      "score": "24–7",
+      "venue": "Rice Stadium",
+      "attendance": "71,882",
+      "super bowl": "VIII"
+    },
+    {
+    "sport": "football",
+      "Year": "1975",
+      "winner": "Pittsburgh Steelers",
+      "loser": "Minnesota Vikings",
+      "score": "16–6",
+      "venue": "Tulane Stadium (3)",
+      "attendance": "80,997",
+      "super bowl": "IX"
+    },
+    {
+    "sport": "football",
+      "Year": "1976",
+      "winner": "Pittsburgh Steelers",
+      "loser": "Dallas Cowboys",
+      "score": "21–17",
+      "venue": "Orange Bowl (4)",
+      "attendance": "80,187",
+      "super bowl": "X"
+    },
+    {
+    "sport": "football",
+      "Year": "1977",
+      "winner": "Oakland Raiders",
+      "loser": "Minnesota Vikings",
+      "score": "32–14",
+      "venue": "Rose Bowl",
+      "attendance": "103,438",
+      "super bowl": "XI"
+    },
+    {
+    "sport": "football",
+      "Year": "1978",
+      "winner": "Dallas Cowboys",
+      "loser": "Denver Broncos",
+      "score": "27–10",
+      "venue": "Louisiana Superdome",
+      "attendance": "76,400",
+      "super bowl": "XII"
+    },
+    {
+    "sport": "football",
+      "Year": "1979",
+      "winner": "Pittsburgh Steelers",
+      "loser": "Dallas Cowboys",
+      "score": "35–31",
+      "venue": "Orange Bowl (5)",
+      "attendance": "79,484",
+      "super bowl": "XIII"
+    },
+    {
+    "sport": "football",
+      "Year": "1980",
+      "winner": "Pittsburgh Steelers",
+      "loser": "Los Angeles Rams",
+      "score": "31–19",
+      "venue": "Rose Bowl (2)",
+      "attendance": "103,985",
+      "super bowl": "XIV"
+    },
+    {
+    "sport": "football",
+      "Year": "1981",
+      "winner": "Oakland Raiders",
+      "loser": "Philadelphia Eagles",
+      "score": "27–10",
+      "venue": "Louisiana Superdome (2)",
+      "attendance": "76,135",
+      "super bowl": "XV"
+    },
+    {
+    "sport": "football",
+      "Year": "1982",
+      "winner": "San Francisco 49ers",
+      "loser": "Cincinnati Bengals",
+      "score": "26–21",
+      "venue": "Pontiac Silverdome",
+      "attendance": "81,270",
+      "super bowl": "XVI"
+    },
+    {
+    "sport": "football",
+      "Year": "1983",
+      "winner": "Washington Redskins",
+      "loser": "Miami Dolphins",
+      "score": "27–17",
+      "venue": "Rose Bowl (3)",
+      "attendance": "103,667",
+      "super bowl": "XVII"
+    },
+    {
+    "sport": "football",
+      "Year": "1984",
+      "winner": "Los Angeles Raiders",
+      "loser": "Washington Redskins",
+      "score": "38–9",
+      "venue": "Tampa Stadium",
+      "attendance": "72,920",
+      "super bowl": "XVIII"
+    },
+    {
+    "sport": "football",
+      "Year": "1985",
+      "winner": "San Francisco 49ers",
+      "loser": "Miami Dolphins",
+      "score": "38–16",
+      "venue": "Stanford Stadium",
+      "attendance": "84,059",
+      "super bowl": "XIX"
+    },
+    {
+    "sport": "football",
+      "Year": "1986",
+      "winner": "Chicago Bears",
+      "loser": "New England Patriots",
+      "score": "46–10",
+      "venue": "Louisiana Superdome (3)",
+      "attendance": "73,818",
+      "super bowl": "XX"
+    },
+    {
+    "sport": "football",
+      "Year": "1987",
+      "winner": "New York Giants",
+      "loser": "Denver Broncos",
+      "score": "39–20",
+      "venue": "Rose Bowl (4)",
+      "attendance": "101,063",
+      "super bowl": "XXI"
+    },
+    {
+    "sport": "football",
+      "Year": "1988",
+      "winner": "Washington Redskins",
+      "loser": "Denver Broncos",
+      "score": "42–10",
+      "venue": "Jack Murphy Stadium",
+      "attendance": "73,302",
+      "super bowl": "XXII"
+    },
+    {
+    "sport": "football",
+      "Year": "1989",
+      "winner": "San Francisco 49ers",
+      "loser": "Cincinnati Bengals",
+      "score": "20–16",
+      "venue": "Joe Robbie Stadium",
+      "attendance": "75,129",
+      "super bowl": "XXIII"
+    },
+    {
+    "sport": "football",
+      "Year": "1990",
+      "winner": "San Francisco 49ers",
+      "loser": "Denver Broncos",
+      "score": "55–10",
+      "venue": "Louisiana Superdome (4)",
+      "attendance": "72,919",
+      "super bowl": "XXIV"
+    },
+    {
+    "sport": "football",
+      "Year": "1991",
+      "winner": "New York Giants",
+      "loser": "Buffalo Bills",
+      "score": "20–19",
+      "venue": "Tampa Stadium (2)",
+      "attendance": "73,813",
+      "super bowl": "XXV"
+    },
+    {
+    "sport": "football",
+      "Year": "1992",
+      "winner": "Washington Redskins",
+      "loser": "Buffalo Bills",
+      "score": "37–24",
+      "venue": "Metrodome",
+      "attendance": "63,130",
+      "super bowl": "XXVI"
+    },
+    {
+    "sport": "football",
+      "Year": "1993",
+      "winner": "Dallas Cowboys",
+      "loser": "Buffalo Bills",
+      "score": "52–17",
+      "venue": "Rose Bowl (5)",
+      "attendance": "98,374",
+      "super bowl": "XXVII"
+    },
+    {
+    "sport": "football",
+      "Year": "1994",
+      "winner": "Dallas Cowboys",
+      "loser": "Buffalo Bills",
+      "score": "30–13",
+      "venue": "Georgia Dome",
+      "attendance": "72,817",
+      "super bowl": "XXVIII"
+    },
+    {
+    "sport": "football",
+      "Year": "1995",
+      "winner": "San Francisco 49ers",
+      "loser": "San Diego Chargers",
+      "score": "49–26",
+      "venue": "Joe Robbie Stadium (2)",
+      "attendance": "74,107",
+      "super bowl": "XXIX"
+    },
+    {
+    "sport": "football",
+      "Year": "1996",
+      "winner": "Dallas Cowboys",
+      "loser": "Pittsburgh Steelers",
+      "score": "27–17",
+      "venue": "Sun Devil Stadium",
+      "attendance": "76,347",
+      "super bowl": "XXX"
+    },
+    {
+    "sport": "football",
+      "Year": "1997",
+      "winner": "Green Bay Packers",
+      "loser": "New England Patriots",
+      "score": "35–21",
+      "venue": "Louisiana Superdome (5)",
+      "attendance": "72,301",
+      "super bowl": "XXXI"
+    },
+    {
+    "sport": "football",
+      "Year": "1998",
+      "winner": "Denver Broncos",
+      "loser": "Green Bay Packers",
+      "score": "31–24",
+      "venue": "Qualcomm Stadium (2)",
+      "attendance": "68,912",
+      "super bowl": "XXXII"
+    },
+    {
+    "sport": "football",
+      "Year": "1999",
+      "winner": "Denver Broncos",
+      "loser": "Atlanta Falcons",
+      "score": "34–19",
+      "venue": "Pro Player Stadium (3)",
+      "attendance": "74,803",
+      "super bowl": "XXXIII"
+    },
+    {
+    "sport": "football",
+      "Year": "2000",
+      "winner": "St. Louis Rams",
+      "loser": "Tennessee Titans",
+      "score": "23–16",
+      "venue": "Georgia Dome (2)",
+      "attendance": "72,625",
+      "super bowl": "XXXIV"
+    },
+    {
+    "sport": "football",
+      "Year": "2001",
+      "winner": "Baltimore Ravens",
+      "loser": "New York Giants",
+      "score": "34–7",
+      "venue": "Raymond James Stadium",
+      "attendance": "71,921",
+      "super bowl": "XXXV"
+    },
+    {
+    "sport": "football",
+      "Year": "2002",
+      "winner": "New England Patriots",
+      "loser": "St. Louis Rams",
+      "score": "20–17",
+      "venue": "Louisiana Superdome (6)",
+      "attendance": "72,922",
+      "super bowl": "XXXVI"
+    },
+    {
+    "sport": "football",
+      "Year": "2003",
+      "winner": "Tampa Bay Buccaneers",
+      "loser": "Oakland Raiders",
+      "score": "48–21",
+      "venue": "Qualcomm Stadium (3)",
+      "attendance": "67,603",
+      "super bowl": "XXXVII"
+    },
+    {
+    "sport": "football",
+      "Year": "2004",
+      "winner": "New England Patriots",
+      "loser": "Carolina Panthers",
+      "score": "32–29",
+      "venue": "Reliant Stadium",
+      "attendance": "71,525",
+      "super bowl": "XXXVIII"
+    },
+    {
+    "sport": "football",
+      "Year": "2005",
+      "winner": "New England Patriots",
+      "loser": "Philadelphia Eagles",
+      "score": "24–21",
+      "venue": "ALLTEL Stadium",
+      "attendance": "78,125",
+      "super bowl": "XXXIX"
+    },
+    {
+    "sport": "football",
+      "Year": "2006",
+      "winner": "Pittsburgh Steelers",
+      "loser": "Seattle Seahawks",
+      "score": "21–10",
+      "venue": "Ford Field",
+      "attendance": "68,206",
+      "super bowl": "XL"
+    },
+    {
+    "sport": "football",
+      "Year": "2007",
+      "winner": "Indianapolis Colts",
+      "loser": "Chicago Bears",
+      "score": "29–17",
+      "venue": "Dolphin Stadium (4)",
+      "attendance": "74,512",
+      "super bowl": "XLI"
+    },
+    {
+    "sport": "football",
+      "Year": "2008",
+      "winner": "New York Giants",
+      "loser": "New England Patriots",
+      "score": "17–14",
+      "venue": "University of Phoenix Stadium",
+      "attendance": "71,101",
+      "super bowl": "XLII"
+    },
+    {
+    "sport": "football",
+      "Year": "2009",
+      "winner": "Pittsburgh Steelers",
+      "loser": "Arizona Cardinals",
+      "score": "27–23",
+      "venue": "Raymond James Stadium (2)",
+      "attendance": "70,774",
+      "super bowl": "XLIII"
+    },
+    {
+    "sport": "football",
+      "Year": "2010",
+      "winner": "New Orleans Saints",
+      "loser": "Indianapolis Colts",
+      "score": "31–17",
+      "venue": "Sun Life Stadium (5)",
+      "attendance": "74,059",
+      "super bowl": "XLIV"
+    },
+    {
+    "sport": "football",
+      "Year": "2011",
+      "winner": "Green Bay Packers",
+      "loser": "Pittsburgh Steelers",
+      "score": "31–25",
+      "venue": "Cowboys Stadium",
+      "attendance": "103,219",
+      "super bowl": "XLV"
+    },
+    {
+    "sport": "football",
+      "Year": "2012",
+      "winner": "New York Giants",
+      "loser": "New England Patriots",
+      "score": "21–17",
+      "venue": "Lucas Oil Stadium",
+      "attendance": "68,658",
+      "super bowl": "XLVI"
+    },
+    {
+    "sport": "football",
+      "Year": "2013",
+      "winner": "Baltimore Ravens",
+      "loser": "San Francisco 49ers",
+      "score": "34–31",
+      "venue": "Mercedes-Benz Superdome (7)",
+      "attendance": "71,024",
+      "super bowl": "XLVII"
+    },
+    {
+    "sport": "football",
+      "Year": "2014",
+      "winner": "Seattle Seahawks",
+      "loser": "Denver Broncos",
+      "score": "43–8",
+      "venue": "MetLife Stadium",
+      "attendance": "82,529",
+      "super bowl": "XLVIII"
+    },
+    {
+    "sport": "football",
+      "Year": "2015",
+      "winner": "New England Patriots",
+      "loser": "Seattle Seahawks",
+      "score": "28–24",
+      "venue": "University of Phoenix Stadium (2)",
+      "attendance": "70,288",
+      "super bowl": "XLIX"
+    }
+      ]
+}
